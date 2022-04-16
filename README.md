@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/0jWBjfc/SGN-04-16-2022-1650073965971.png" alt="SGN-04-16-2022-1650073965971" border="0"></a>
-  <h1>💫💕 QUEEN JULIET BOT 💕💫</h1>
+  <h1>💫💕 𝗤𝗨𝗘𝗘𝗡 𝗝𝗨𝗟𝗜𝗘𝗧 💕💫</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
