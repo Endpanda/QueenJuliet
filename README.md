@@ -55,11 +55,11 @@
 ### Simple Method
 Click Run on Repl.it and Run the qr generator by clicking play button.
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it] 
 
 Click Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Endpanda/QueenJuliet)
 
 
 ## F.A.Q
