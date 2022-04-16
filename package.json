@@ -1,0 +1,29 @@
+{
+    "name": "queen_juliet",
+    "version": "3.5.0v",
+    "description": "Queen Juliet Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "main": "./QueenJuliet/assets/module.js",
+    "scripts": {
+      "start": "supervisor -s assets/module.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Endpanda/Queen-Juliet.git"
+    },
+    "keywords": [
+      "whatsapp"
+    ],
+    "author": "Endpanda",
+    "developer": "AN Tech",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+      "url": "https://github.com/Endpanda/Queen-Juliet/issues"
+    },
+    "homepage": "https://github.com/Endpanda/Queen-Juliet#readme",
+    "dependencies": {
+      "@blackamda/queenamdi-web-api": "^1.0.1",
+      "queenjuliet-public":"^1.0.0",
+      "queenjuliet-img": "1.0.0",
+      "fancy-juliet-sew": "^1.0.1"
+    }
+  }
