@@ -55,7 +55,8 @@
 ### Simple Method
 Click Run on Repl.it and Run the qr generator by clicking play button.
 
-[![Run on Repl.it] 
+![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
 
 Click Deploy
 
