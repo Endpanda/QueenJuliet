@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/0jWBjfc/SGN-04-16-2022-1650073965971.png" alt="SGN-04-16-2022-1650073965971" border="0"></a>
+  <img src="https://i.ibb.co/0jWBjfc/SGN-04-16-2022-1650073965971.png" alt="SGN-04-16-2022-1650073965971" border="10"></a>
   <h1>💫💕 𝗤𝗨𝗘𝗘𝗡 𝗝𝗨𝗟𝗜𝗘𝗧 💕💫</h1>
 </div>
 <p align="center">
