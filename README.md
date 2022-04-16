@@ -61,9 +61,9 @@ Click Run on Repl.it and Run the qr generator by clicking play button.
 
 Click Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Endpanda/QueenJuliet)
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+                 
+                 
 ## F.A.Q
 Answer a few frequently asked questions;
 ### Can you read my messages?
