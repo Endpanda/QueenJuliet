@@ -37,7 +37,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
 		);
 		await conn.sendMessage(
 			conn.user.jid,
-			'AMDI;;;' +
+			'JULIET;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				),
