@@ -20,7 +20,7 @@ async function queenJuliet () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Queen')}${chalk.blue.bold(' Amdi')}
+        console.log(`${chalk.green.bold('Queen')}${chalk.blue.bold(' Juliet')}
 ${chalk.white.italic('Queen Juliet Sting session')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
